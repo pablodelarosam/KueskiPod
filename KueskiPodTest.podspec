@@ -28,7 +28,7 @@ s.framework = "UIKit"
 
 
 # 8
-s.source_files = "KueskiPodTes/**/*.{swift}"
+s.source_files = "Classes", "Classes/**/*.{swift}"
 
 # 9
 
